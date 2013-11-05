@@ -1609,6 +1609,24 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Wanderlust",  // will be displayed under the screenshot
+      "thumb": "wanderlust/thumb.png", // path to the image (omit the projects/ prefix)
+      "desc": "Trip Planner", // One or two sentences
+      "url": "http://mywanderlust.co", // url to your app
+      "info": "http://mywanderlust.co/about", // url to app announcement or background
+      "src": "https://github.com/danecjensen/mywanderlust", // (optional) Url to your source repository
+      "submitter": "danecjensen", // your github username
+      "submissionDate": "2013-11-05", // current date in ISO format
+      "tags": [
+        "Production", 
+        "Productivity",
+        "Rails", "UI-Bootstrap", 
+        "No jQuery",
+        "Open Source",
+      ]
     }
+
   ]
 }
